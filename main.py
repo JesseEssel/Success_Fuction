@@ -6,6 +6,5 @@ def success(consistency, dedication, passion):
     else:
         print("\nCaution:\nStay committed and passionate to achieve success.")
 
-# Display the output
+# Display the output or Calling out the function
 success(True, True,True)
-#success
