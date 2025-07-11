@@ -8,4 +8,3 @@ def success(consistency, dedication, passion):
 
 # Display the output
 success(True, True,True)
-#success
